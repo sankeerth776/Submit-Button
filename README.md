@@ -66,22 +66,9 @@ Perfect for adding to modern websites, portfolios, or UI component libraries.
 
 ---
 
-## 📸 Screenshot (Optional)
-
-You can add a screenshot of the glowing button like this:
-
-markdown
-![Animated Submit Button Screenshot](screenshot.png)
-💡 Customization Tips
-🎨 Change #7f00ff in the CSS to use different glow colors.
-
-🔢 Adjust the number 120 in JavaScript to create more or fewer bars.
-
-🖋️ Change the text inside the <a> tag (e.g., to "Send", "Enter", etc.)
-
-✏️ Author
+## ✏️ Author
 Created by siva
 
-📄 License
+##📄 License
 This project is open-source and free to use under the MIT License. Attribution is appreciated but not required.
 
